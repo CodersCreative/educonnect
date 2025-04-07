@@ -1,6 +1,6 @@
 {
-    "name": "educonnect",
-    "short_name": "educonnect",
+    "name": "medisend",
+    "short_name": "medisend",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
